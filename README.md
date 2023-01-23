@@ -1,26 +1,26 @@
 # D-yen-Assessement hosted links contained in the links below
 
-1 comprehension link: https://jimohsegun1.github.io/dyen-comprehension/
+1. comprehension link: https://jimohsegun1.github.io/dyen-comprehension/
 
-letter headed paper: https://jimohsegun1.github.io/dyen-letter-headed-paper/
+2. letter headed paper: https://jimohsegun1.github.io/dyen-letter-headed-paper/
 
-mark up letter: https://jimohsegun1.github.io/dyen-letter/
+3. mark up letter: https://jimohsegun1.github.io/dyen-letter/
 
-biography link: https://jimohsegun1.github.io/dyen-biography/
+4. biography link: https://jimohsegun1.github.io/dyen-biography/
 
-Mozilla splash page: https://jimohsegun1.github.io/dyen-mozilla-splash-page/
+5. Mozilla splash page: https://jimohsegun1.github.io/dyen-mozilla-splash-page/
 
-page content: https://jimohsegun1.github.io/dyen-page-content/
+6. page content: https://jimohsegun1.github.io/dyen-page-content/
 
-planet data: https://jimohsegun1.github.io/dyen-planet-data/
+7. planet data: https://jimohsegun1.github.io/dyen-planet-data/
 
-bouncing balls: https://jimohsegun1.github.io/dyen-bouncing-balls/
+8. bouncing balls: https://jimohsegun1.github.io/dyen-bouncing-balls/
 
-image gallery: https://jimohsegun1.github.io/dyen-image-gallery/
+9. image gallery: https://jimohsegun1.github.io/dyen-image-gallery/
 
-cool looking box link: https://jimohsegun1.github.io/dyen-cool-box/
+10. cool looking box link: https://jimohsegun1.github.io/dyen-cool-box/
 
-sequencing animation: https://jimohsegun1.github.io/dyen-sequencing-animation/
+11. sequencing animation: https://jimohsegun1.github.io/dyen-sequencing-animation/
 
-silly story generator: https://jimohsegun1.github.io/dyen-silly-story-generator/
+12. silly story generator: https://jimohsegun1.github.io/dyen-silly-story-generator/
 
