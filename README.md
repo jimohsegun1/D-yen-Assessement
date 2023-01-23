@@ -1,11 +1,12 @@
 # D-yen-Assessement
-biography link: https://jimohsegun1.github.io/dyen-biography/
 
 comprehension link: https://jimohsegun1.github.io/dyen-comprehension/
 
 letter headed paper: https://jimohsegun1.github.io/dyen-letter-headed-paper/
 
 mark up letter: https://jimohsegun1.github.io/dyen-letter/
+
+biography link: https://jimohsegun1.github.io/dyen-biography/
 
 Mozilla splash page: https://jimohsegun1.github.io/dyen-mozilla-splash-page/
 
