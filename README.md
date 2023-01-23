@@ -21,5 +21,5 @@ cool looking box link: https://jimohsegun1.github.io/dyen-cool-box/
 
 sequencing animation: https://jimohsegun1.github.io/dyen-sequencing-animation/
 
-silly story generator: https://jimohsegun1.github.io/dyen-sily-story-generator/
+silly story generator: https://jimohsegun1.github.io/dyen-silly-story-generator/
 
